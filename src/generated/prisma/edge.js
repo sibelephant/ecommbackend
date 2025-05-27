@@ -126,7 +126,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/home/sibelephant/javascriptnuggets/src/generated/prisma",
+      "value": "/home/sibelephant/ecommbackend/src/generated/prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -140,7 +140,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/home/sibelephant/javascriptnuggets/prisma/schema.prisma",
+    "sourceFilePath": "/home/sibelephant/ecommbackend/prisma/schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
